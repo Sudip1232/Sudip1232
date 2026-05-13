@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sudip Ghosh</h1>
 
 <h3 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Frontend+Developer;React+Enthusiast;DSA+Learner;Open+Source+Contributor" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Frontend+Developer;React+Enthusiast;DSA+Learner;Open+Source+Contributor;AI+ML+Engineer" />
 </h3>
 
 <p align="center">
@@ -24,6 +24,7 @@
 ### 🌐 Connect with me
 
 <p align="left">
+
 <a href="https://www.linkedin.com/in/sudip-ghosh-69b966381/">
 <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
 </a>
@@ -39,6 +40,15 @@
 <a href="https://www.hackerrank.com/profile/sudipghosh9883">
 <img src="https://img.shields.io/badge/HackerRank-green?style=for-the-badge&logo=hackerrank" />
 </a>
+
+<a href="https://www.codechef.com/users/sudip_ghosh01">
+<img src="https://img.shields.io/badge/CodeChef-brown?style=for-the-badge&logo=codechef" />
+</a>
+
+<a href="https://www.geeksforgeeks.org/profile/sudipghoghlx">
+<img src="https://img.shields.io/badge/GeeksforGeeks-darkgreen?style=for-the-badge&logo=geeksforgeeks" />
+</a>
+
 </p>
 
 ---
